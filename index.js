@@ -21,7 +21,9 @@ function logDetails() {
          |      |
             ——
          |     |
-         |_    |_ \x1b[0m`;
+         |_    |_ \x1b[0m
+            
+      +----------------------------------------------------------------+\x1b[0m   `;
 
   // Log the colorful box in the terminal
   console.log(colorfulBox);
